@@ -2,6 +2,8 @@ Based on the group assigned to you, compute any of these 2 functions:
 Group 1: Convert from Celcius to Fahrenheit
 Group 2: Convert from Fahrenheit to Celcius
 
+THIS IS AN INDIVIDUAL PROJECT. PICK YOUR OWN TASK BASED ON THE GROUP ASSIGNED TO YOU
+
 2. Use functions as applicable.
 
 3. Use external javascript to execute this task
