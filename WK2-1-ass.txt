@@ -1,0 +1,23 @@
+Based on the group assigned to you, compute any of these 2 functions:
+Group 1: Convert from Celcius to Fahrenheit
+Group 2: Convert from Fahrenheit to Celcius
+
+2. Use functions as applicable.
+
+3. Use external javascript to execute this task
+
+4. Get your user input from your html and display the result in an HTML tag
+
+5. The form should not reload when they submit
+
+4. Push the code to your github and host to vercel and ensure you have your work on index.html
+
+5. DO NOT copy YouTube codes for this assignment. You can leverage on AI or other online resources like
+stack overflow to help with your bugs. DO NOT copy codes directly on AI, as this will be very obvious
+for me to spot
+
+6. Share the link to the vercel and also the link to your github repository for review
+
+7. Kindly turn your work in by sending to my WhatsApp on or before Tuesday, October 14, 2025 by 7:59am. Late submission is strictly discouraged.
+
+You are encouraged to reach out if you have any challenge during the development of this project.
