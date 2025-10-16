@@ -1,0 +1,18 @@
+Pick your assignment based on the group given to you:
+1. Student Grade Evaluator - Idris and Christianah
+2. Simple Login Authentication - Samuel and Deborah
+3. Basic Calculator - Luqman and Nathan
+4. Traffic Light System - Losogo and Abdulsalam
+5. Simple Age Validator - Tobiloba and Akeem
+6. ATM Withdrawal Simulator - Mike and Abdulhakeem
+
+Create a README.md file and put the link to your partner's profile.
+THIS IS NOT A COLLABORATIVE WORK. The link is to ensure you do not copy each other
+
+Push the code to your github and host to vercel and ensure you have your work on index.html
+DO NOT SUBMIT AI GENERATED CODE
+
+- Share the link to the vercel and also the link to your github repository for review
+- Kindly turn your work in by sending to my WhatsApp on or before Sunday, October 19, 2025 by 04:59pm. Late submission is strictly discouraged.
+
+You are encouraged to reach out if you have any challenge during the development of this project.
