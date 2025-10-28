@@ -55,3 +55,14 @@ for (let i = 0; i < 10; i++) {
     } 
     console.log(i);  
 }
+
+
+let multTable = document.querySelector('#multTable');
+
+for(let i = 1; i <= 12; i++){
+    multTable.innerHTML += `<br>Multiplication Table ${i}<br>`;
+    for(j = 1; j <= 12; j++){
+        // console.log(i, j);
+        multTable.innerHTML += `${i} x ${j} = ${i * j}<br>`
+    }
+}
