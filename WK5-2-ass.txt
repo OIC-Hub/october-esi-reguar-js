@@ -1,0 +1,6 @@
+Design an ID card page of users by consuming relevant endpoint on https://dummyjson.com and style it in a very good way.
+
+- Share the link to the vercel and also the link to your github repository for review
+- Kindly turn your work in by sending to my WhatsApp on or before Wednesday, Novemeber 5th, 2025 by 07:59am. Late submission is strictly discouraged.
+
+You are encouraged to reach out if you have any challenge during the development of this project.
