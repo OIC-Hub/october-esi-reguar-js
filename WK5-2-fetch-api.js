@@ -44,3 +44,6 @@ fetch(url, fetchData)
     console.log(error);
     
 })
+.finally(function(){
+    console.log("Fetching completed"); 
+});
